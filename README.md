@@ -48,13 +48,13 @@ We follow the **Medallion Architecture**:
 
 ## 🖼️ Project Architecture
 
-![Project Architecture](Files/project_architecture.png)
+![Project Architecture](docs/project_architecture.png)
 
 ---
 
 ## 🔄 Data Flow
 
-![Data Flow](Files/data_flow.png)
+![Data Flow](docs/data_flow.png)
 
 ---
 
